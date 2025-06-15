@@ -46,7 +46,7 @@ If you’re working on computer vision, spatial AI, or anything 3D — let’s c
 
 ---
 
-> "Learning to see the world — pixel by pixel, point by point, layer by layer."
+ "Learning to see the world — pixel by pixel, point by point, layer by layer."
 
 ---
 
