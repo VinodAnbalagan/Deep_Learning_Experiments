@@ -4,7 +4,7 @@ Welcome to my central hub of deep learning explorations and hands-on projects. T
 
 ## 🌐 Repository Overview
 
-This monorepo is organized into key areas of focus. Each sub-repo explores deep learning techniques and applications with curated code, insights, and tutorials.
+This repo is organized into key areas of focus. Each sub-repo explores deep learning techniques, coursework and applications with curated code, insights, and tutorials.
 
 ### 📦 1. [Deep Learning with PyTorch](https://github.com/VinodAnbalagan/Deep_Learning/tree/0cc90863d8dd7f600c91725f60bc3f81856d691f/Deep%20Learning%20with%20Pytorch)
 A series of beginner-to-intermediate projects covering core deep learning concepts:
@@ -41,11 +41,6 @@ My goal is to build impactful, deployable tools that merge creativity with deep 
 - 📝 Blog-style writeups for every major milestone
 - 🎓 Open-source contributions to useful datasets + tools
 
-
-## 🔗 Connect With Me
-I'm actively seeking collaborations, learning opportunities, and roles in applied AI research.
-- 📫 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio / Blog](https://yourportfolio.com) *(optional)*
 
 If you’re working on computer vision, spatial AI, or anything 3D — let’s connect!
 
