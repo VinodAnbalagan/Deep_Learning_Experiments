@@ -6,14 +6,14 @@ Welcome to my central hub of deep learning explorations and hands-on projects. T
 
 This repo is organized into key areas of focus. Each sub-repo explores deep learning techniques, coursework and applications with curated code, insights, and tutorials.
 
-### 📦 1. [Deep Learning with PyTorch](https://github.com/VinodAnbalagan/Deep_Learning/tree/0cc90863d8dd7f600c91725f60bc3f81856d691f/Deep%20Learning%20with%20Pytorch)
+### 📦 1. [Deep Learning with PyTorch](https://github.com/VinodAnbalagan/Deep_Learning_Experiments/tree/8e8c3ec6407da40131a0d731a523a61f41f4ceac/Deep%20Learning%20with%20Pytorch)
 A series of beginner-to-intermediate projects covering core deep learning concepts:
 - Building neural networks from scratch
 - Custom training loops
 - Loss functions and optimizers
 - Hands-on with MNIST, CIFAR, and more
 
-### 📘 2. [FastAI - Deep Learning for Coders](https://github.com/VinodAnbalagan/Deep_Learning/tree/0cc90863d8dd7f600c91725f60bc3f81856d691f/FastAI_Deep%20Learning%20for%20Coders)
+### 📘 2. [FastAI - Deep Learning for Coders](https://github.com/VinodAnbalagan/Deep_Learning_Experiments/tree/8e8c3ec6407da40131a0d731a523a61f41f4ceac/FastAI_Deep%20Learning%20for%20Coders)
 Projects based on the brilliant FastAI course/book:
 - Currently includes:
   - Image classification on Pet Dataset
