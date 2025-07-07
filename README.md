@@ -20,7 +20,7 @@ Projects based on the brilliant FastAI course/book:
   - Fine-tuned ResNet models on curated datasets
 - More projects in progress
 
-### 🧭 3. [Computer Vision Projects]()
+### 🧭 3. Computer Vision Projects
 End-to-end CV projects with a storytelling angle and real-world relevance:
 - [✔️] MNIST Digit Recognition (PyTorch + Gradio UI + Noise Test + W&B logging)
 - [✔️] YOLO
