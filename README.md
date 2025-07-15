@@ -22,9 +22,10 @@ Projects based on the brilliant FastAI course/book:
 
 ### 🧭 3. Computer Vision Projects
 End-to-end CV projects with a storytelling angle and real-world relevance:
-- [✔️] MNIST Digit Recognition (PyTorch + Gradio UI + Noise Test + W&B logging)
-- [✔️] YOLO
-- [🔜] 3D Spatial Intelligence projects (Gaussian Splatting, NeRFs, etc.)
+- MNIST Digit Recognition (PyTorch + Gradio UI + Noise Test + W&B logging)
+- YOLO
+- Semantic Segmentation
+
 
 
 ## ✨ Why This Exists
