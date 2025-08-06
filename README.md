@@ -25,6 +25,7 @@ End-to-end CV projects with a storytelling angle and real-world relevance:
 - MNIST Digit Recognition (PyTorch + Gradio UI + Noise Test + W&B logging)
 - YOLO
 - Semantic Segmentation
+- Panoptic Segmentation
 
 
 
