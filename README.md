@@ -12,6 +12,7 @@ End-to-end CV projects with a storytelling angle and real-world relevance:
 - YOLO
 - Semantic Segmentation
 - Panoptic Segmentation
+- Vision Transformer and Diffusion
 
 ### 📦 2. Deep Learning with PyTorch
 A series of beginner-to-intermediate projects covering core deep learning concepts:
