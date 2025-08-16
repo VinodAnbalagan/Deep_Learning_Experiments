@@ -1,18 +1,18 @@
 # 🧠 Deep Learning Projects Hub
 
-Welcome to my central hub of deep learning explorations and hands-on projects. This repository links together my work across various subfields of deep learning — from foundational models in PyTorch to FastAI experiments and computer vision applications.
+Welcome to my central hub of deep learning explorations and hands-on projects. This repository links together my work across various subfields of deep learning — from foundational models in PyTorch to FastAI experiments and computer vision applications. This is also the repo for my computer vision blog series on LinkedIn. 
 
 ## 🌐 Repository Overview
 
 This repo is organized into key areas of focus. Each sub-repo explores deep learning techniques, coursework and applications with curated code, insights, and tutorials.
 
-### 🧭 1. Computer Vision Projects
+### 🧭 1. Computer Vision Blog Series on LinkedIn
 End-to-end CV projects with a storytelling angle and real-world relevance:
-- MNIST Digit Recognition (PyTorch + Gradio UI + Noise Test + W&B logging)
-- YOLO
-- Semantic Segmentation
-- Panoptic Segmentation
-- Vision Transformer and Diffusion
+- [MNIST Digit Recognition](https://www.linkedin.com/posts/vinod-anbalagan_deeplearning-computervision-3dai-activity-7340229542118137857-vCz5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAxyLDkBIcn168EZV2DYxM5x2TkORcUZtUU)
+- [YOLO](https://www.linkedin.com/pulse/challenge-seeing-like-human-vinod-anbalagan-3zblc)
+- [Semantic Segmentation](https://www.linkedin.com/pulse/from-boxes-pixels-resilient-ai-showdown-vinod-anbalagan-qmxuc)
+- [Panoptic Segmentation](https://www.linkedin.com/pulse/panoptic-segmentation-vinod-anbalagan-ramvc)
+- [Vision Transformer and Diffusion](https://www.linkedin.com/pulse/ai-vision-saga-from-seeing-reality-creating-new-worlds-anbalagan-lqykc)
 
 ### 📦 2. Deep Learning with PyTorch
 A series of beginner-to-intermediate projects covering core deep learning concepts:
