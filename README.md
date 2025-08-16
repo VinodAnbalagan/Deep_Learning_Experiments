@@ -8,7 +8,7 @@ This repo is organized into key areas of focus. Each sub-repo explores deep lear
 
 ### 🧭 1. Computer Vision Blog Series on LinkedIn
 End-to-end CV projects with a storytelling angle and real-world relevance:
-- [MNIST Digit Recognition](https://www.linkedin.com/posts/vinod-anbalagan_deeplearning-computervision-3dai-activity-7340229542118137857-vCz5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAxyLDkBIcn168EZV2DYxM5x2TkORcUZtUU)
+-  MNIST Digit Recognition
 - [YOLO](https://www.linkedin.com/pulse/challenge-seeing-like-human-vinod-anbalagan-3zblc)
 - [Semantic Segmentation](https://www.linkedin.com/pulse/from-boxes-pixels-resilient-ai-showdown-vinod-anbalagan-qmxuc)
 - [Panoptic Segmentation](https://www.linkedin.com/pulse/panoptic-segmentation-vinod-anbalagan-ramvc)
